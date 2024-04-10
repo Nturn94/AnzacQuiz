@@ -1,0 +1,88 @@
+[
+  {
+    "question": "What does ANZAC stand for?",
+    "options": ["Australian and New Zealand Army Corps", "Australian and New Zealand Air Corps", "Australian and New Zealand Armed Confederation", "Australian and New Zealand Allied Command"],
+    "answer": "Australian and New Zealand Army Corps"
+  },
+  {
+    "question": "On what date is ANZAC Day commemorated each year?",
+    "options": ["25 April", "15 August", "11 November", "1 July"],
+    "answer": "25 April"
+  },
+  {
+    "question": "Which campaign during World War I led to the observance of ANZAC Day?",
+    "options": ["The Battle of Somme", "The Gallipoli Campaign", "The Battle of Verdun", "The Siege of Tobruk"],
+    "answer": "The Gallipoli Campaign"
+  },
+  {
+    "question": "What is traditionally eaten in Australia and New Zealand to commemorate ANZAC Day?",
+    "options": ["Vegemite Sandwiches", "Pavlova", "ANZAC Biscuits", "Meat Pies"],
+    "answer": "ANZAC Biscuits"
+  },
+  {
+    "question": "Which flower is a symbol of remembrance for ANZAC Day?",
+    "options": ["Poppy", "Rose", "Tulip", "Daffodil"],
+    "answer": "Poppy"
+  },
+  {
+    "question": "What year was the first ANZAC Day commemorated?",
+    "options": ["1915", "1916", "1920", "1945"],
+    "answer": "1916"
+  },
+  {
+    "question": "In which country is the Gallipoli Peninsula located, where the ANZACs fought during World War I?",
+    "options": ["France", "Turkey", "Belgium", "Germany"],
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which two countries primarily commemorate ANZAC Day?",
+    "options": ["Australia and New Zealand", "Australia and the United Kingdom", "New Zealand and Turkey", "Australia and Turkey"],
+    "answer": "Australia and New Zealand"
+  },
+  {
+    "question": "What type of ceremonies are commonly held at dawn on ANZAC Day?",
+    "options": ["Firework displays", "Dawn services", "Parades", "Concerts"],
+    "answer": "Dawn services"
+  },
+  {
+    "question": "What is the name of the beach where ANZAC troops landed on April 25, 1915?",
+    "options": ["Suvla Bay", "Anzac Cove", "Omaha Beach", "Normandy Beach"],
+    "answer": "Anzac Cove"
+  },
+  {
+    "question": "Which war was the original ANZAC Day commemorating?",
+    "options": ["World War I", "World War II", "The Vietnam War", "The Korean War"],
+    "answer": "World War I"
+  },
+  {
+    "question": "What is the name of the poignant bugle call played during ANZAC Day ceremonies?",
+    "options": ["Taps", "Reveille", "The Last Post", "Rouse"],
+    "answer": "The Last Post"
+  },
+  {
+    "question": "Which of the following is a traditional ANZAC Day activity?",
+    "options": ["Playing two-up", "Barbecue", "Fireworks", "Singing the national anthem"],
+    "answer": "Playing two-up"
+  },
+  {
+    "question": "What does the term 'ANZAC spirit' commonly refer to?",
+    "options": ["The camaraderie between Australian and New Zealand troops", "The bravery and heroism of the ANZAC troops", "The peace treaty between the ANZAC nations and Turkey", "The annual sports competition between Australia and New Zealand"],
+    "answer": "The bravery and heroism of the ANZAC troops"
+  },
+  {
+    "question": "In which city is the Australian War Memorial located?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which notable Australian poet wrote 'The Anzac', commemorating the soldiers of the Gallipoli campaign?",
+    "options": ["Banjo Paterson", "Henry Lawson", "Dorothea Mackellar", "C.J. Dennis"],
+    "answer": "C.J. Dennis"
+  },
+  {
+    "question": "What year was the 'Anzac Day Act' passed to officially recognize April 25th as a national day of commemoration in Australia?",
+    "options": ["1916", "1920", "1927", "1935"],
+    "answer": "1927"
+  }
+
+]
